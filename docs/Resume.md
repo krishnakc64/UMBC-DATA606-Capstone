@@ -1,6 +1,6 @@
 # Krishna Chaithanya Reddy Kuncham
 
-![photo](photo.png)
+![photo](photo.jpg)
 
 **Email:** krishkc3864@gmail.com  
 **Phone:** +1 (410) 805-8672   
