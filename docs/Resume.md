@@ -10,7 +10,7 @@
 
 ### University of Maryland, Baltimore County (UMBC)
 **Master of Professional Studies in Data Science**  
-**GPA:** 4.00 / 4.00  
+**GPA:** 3.95 / 4.00  
 *January 2025 – Present*
 
 ### National Institute of Technology Nagaland
@@ -99,8 +99,4 @@
 
 ---
 
-## 🔗 Projects
-
-- **U.S. Airline Performance Big Data Project**  
-  https://github.com/AnuhyaMopa/US-Airline-Performance-BigData.git
 
