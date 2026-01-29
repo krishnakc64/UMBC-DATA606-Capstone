@@ -6,7 +6,7 @@
 **Phone:** +1 (410) 805-8672   
 ---
 
-## 🎓 Education
+##  Education
 
 ### University of Maryland, Baltimore County (UMBC)
 **Master of Professional Studies in Data Science**  
@@ -20,7 +20,7 @@
 
 ---
 
-## 💼 Research & Academic Projects
+##  Research & Academic Projects
 
 ### Big Data Analysis of U.S. Airline Performance
 - Analyzed **34.8 million** U.S. flight records (2020–2025) using **Apache Spark** and **PySpark**.
@@ -50,7 +50,7 @@
 
 ---
 
-## 🧑‍💼 Leadership & Extracurricular Activities
+##  Leadership & Extracurricular Activities
 
 ### Technical Head — CSE Department, NIT Nagaland
 *July 2023 – June 2024*
@@ -68,7 +68,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Programming Languages:** Python, C, JavaScript, SQL  
 **Web Technologies:** HTML, CSS  
@@ -78,7 +78,7 @@
 
 ---
 
-## 🏆 Awards & Certifications
+##  Awards & Certifications
 
 - **HackerRank Certifications:** Python, SQL, Problem Solving, CSS
 - **Udemy Data Science Certification:** Data analysis, visualization, and machine learning
@@ -89,7 +89,7 @@
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Big Data Analytics & Distributed Computing
 - Machine Learning for Urban Analytics and Public Safety
