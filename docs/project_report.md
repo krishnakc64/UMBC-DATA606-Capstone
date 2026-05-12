@@ -316,6 +316,14 @@ A Streamlit dashboard was developed to visualize customer segmentation results.
 
 The application allows businesses to quickly analyze customer behavior and identify valuable customer segments.
 
+<img width="1243" height="416" alt="image" src="https://github.com/user-attachments/assets/ba21301f-e94c-4a52-abdb-dd2ac86e185c" />
+
+<img width="1368" height="284" alt="image" src="https://github.com/user-attachments/assets/6fb36d2d-0a2c-4058-a7b6-1f84dfac41ba" />
+
+<img width="974" height="440" alt="image" src="https://github.com/user-attachments/assets/de2acdc3-8010-4591-9bb1-2c894fb3035f" />
+
+<img width="1155" height="411" alt="image" src="https://github.com/user-attachments/assets/581cedee-33cc-43bc-a78e-a1fc2275185d" />
+
 ---
 
 # 9. Conclusion
@@ -360,7 +368,4 @@ The project shows how machine learning and big data technologies can help busine
 - Scikit-learn Documentation
 - Streamlit Documentation
 
----
-
-Report content prepared based on the uploaded project draft and analysis results. :contentReference[oaicite:0]{index=0}
 
