@@ -110,11 +110,13 @@ The project analyzed popular product categories and brands to understand custome
 
 ### Top 10 Categories by Count
 
-![Top Categories](images/top_categories.png)
+<img width="577" height="277" alt="image" src="https://github.com/user-attachments/assets/8db8cf0a-3f4b-4e19-bada-915238de3c3a" />
+
 
 ### Top 10 Brands by Count
 
-![Top Brands](images/top_brands.png)
+<img width="496" height="274" alt="image" src="https://github.com/user-attachments/assets/e0074ca5-acd5-439d-86ea-4e9f44777632" />
+
 
 ---
 
@@ -124,11 +126,11 @@ Customer purchasing activity was analyzed monthly to identify trends and seasona
 
 ### Number of Transactions per Month
 
-![Transactions](images/transactions_per_month.png)
+<img width="354" height="245" alt="image" src="https://github.com/user-attachments/assets/ba60bcbe-f0d0-4ea4-8fd5-491424aa0099" />
 
 ### Purchases Distribution per Month
 
-![Purchases Distribution](images/purchases_distribution.png)
+<img width="324" height="329" alt="image" src="https://github.com/user-attachments/assets/f69ab057-1304-4de3-80de-43b3082a2f24" />
 
 ---
 
@@ -202,7 +204,8 @@ The elbow method was used to determine the optimal number of clusters.
 
 ### Elbow Method Graph
 
-![Elbow Method](images/elbow_method.png)
+<img width="322" height="237" alt="image" src="https://github.com/user-attachments/assets/80348049-924e-461e-9777-d2001f7cd658" />
+
 
 The graph indicated that k = 4 was the optimal number of clusters.
 
@@ -214,7 +217,8 @@ Customers were segmented into four clusters based on RFM values.
 
 ### Cluster Distribution
 
-![Cluster Distribution](images/cluster_distribution.png)
+<img width="352" height="226" alt="image" src="https://github.com/user-attachments/assets/aea22d2f-144d-4707-8720-068ade762330" />
+
 
 ---
 
@@ -283,15 +287,18 @@ Customers were segmented into four clusters based on RFM values.
 
 ### Average Recency
 
-![Recency](images/recency.png)
+<img width="301" height="229" alt="image" src="https://github.com/user-attachments/assets/848b0c21-e822-4ddc-8764-5bc0c46761c4" />
+
 
 ### Average Monetary Value
 
-![Monetary](images/monetary.png)
+<img width="320" height="230" alt="image" src="https://github.com/user-attachments/assets/069caa5a-ba86-4c6d-b567-ac74a39c7fc0" />
+
 
 ### Average Frequency
 
-![Frequency](images/frequency.png)
+<img width="302" height="222" alt="image" src="https://github.com/user-attachments/assets/0d178e4b-f988-4d9c-873c-58b9756cf1ca" />
+
 
 ---
 
