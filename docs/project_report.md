@@ -6,11 +6,16 @@ Instructor: Dr. Chaojie Wang
 Author: Krishna Chaithanya Reddy Kuncham  
 
 GitHub Repository:  
-
+https://github.com/krishnakc64/UMBC-DATA606-Capstone.git
 
 PowerPoint Presentation:  
+https://github.com/krishnakc64/UMBC-DATA606-Capstone/blob/main/docs/Customer%20Segmentation%20with%20Pyspark.pptx
 
 YouTube Video:  
+https://youtu.be/n4QEHgzKg2g
+
+### Live Streamlit Application
+https://github.com/krishnakc64/UMBC-DATA606-Capstone/blob/main/app/app.py
 
 ---
 
