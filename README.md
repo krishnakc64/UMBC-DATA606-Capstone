@@ -29,10 +29,10 @@ PySpark was used to efficiently process large datasets and perform customer anal
 ## Project Links
 
 ### GitHub Repository
-
+https://github.com/krishnakc64/UMBC-DATA606-Capstone.git
 
 ### YouTube Presentation
-
+https://youtu.be/n4QEHgzKg2g
 
 ### PowerPoint Presentation
 
