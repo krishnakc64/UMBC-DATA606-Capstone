@@ -3,7 +3,7 @@
 DATA 606 Capstone Project  
 University of Maryland, Baltimore County (UMBC)
 
-Prepared for: Dr. Chaojie (Jay) Wang  
+Prepared for: Dr. Chaojie Wang  
 Author: Krishna Chaithanya Reddy Kuncham
 
 ---
@@ -29,13 +29,13 @@ PySpark was used to efficiently process large datasets and perform customer anal
 ## Project Links
 
 ### GitHub Repository
-https://github.com/your-github-link
+
 
 ### YouTube Presentation
-https://youtube.com/your-video-link
+
 
 ### PowerPoint Presentation
-https://github.com/your-github-link/docs/Customer%20Segmentation%20with%20Pyspark.pptx
+
 
 ---
 
@@ -94,8 +94,7 @@ Dataset used:
 E-Commerce Behavior Dataset
 
 Dataset Source:
-https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
-
+https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store
 Dataset Details:
 - Large-scale e-commerce transaction dataset
 - Millions of customer interaction records
