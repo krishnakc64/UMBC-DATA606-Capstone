@@ -1,18 +1,16 @@
 # Scalable Customer Segmentation Using PySpark and RFM Analysis on E-Commerce Transaction Data
 
 Prepared for UMBC Data Science Master Degree Capstone  
-Instructor: Dr. Chaojie (Jay) Wang  
+Instructor: Dr. Chaojie Wang  
 
 Author: Krishna Chaithanya Reddy Kuncham  
 
 GitHub Repository:  
-https://github.com/your-github-link
+
 
 PowerPoint Presentation:  
-https://github.com/your-github-link/docs/final_presentation.pdf
 
 YouTube Video:  
-https://youtube.com/your-video-link
 
 ---
 
@@ -45,8 +43,8 @@ The project also applies machine learning clustering techniques to improve custo
 E-Commerce Behavior Dataset  
 
 Kaggle Dataset:  
-https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
+https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store
 ---
 
 ## Data Size and Shape
