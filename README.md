@@ -36,7 +36,9 @@ https://youtu.be/n4QEHgzKg2g
 
 ### PowerPoint Presentation
 https://github.com/krishnakc64/UMBC-DATA606-Capstone/blob/main/docs/Customer%20Segmentation%20with%20Pyspark.pptx
+
 ### Live Streamlit Application
+https://github.com/krishnakc64/UMBC-DATA606-Capstone/blob/main/app/app.py
 
 ---
 
