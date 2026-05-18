@@ -1,9 +1,12 @@
 # Scalable Customer Segmentation Using PySpark and RFM Analysis on E-Commerce Transaction Data
+Author: Krishna Chaithanya Reddy Kuncham 
+
+Semester : 3rd
 
 Prepared for UMBC Data Science Master Degree Capstone  
 Instructor: Dr. Chaojie Wang  
 
-Author: Krishna Chaithanya Reddy Kuncham  
+ 
 
 GitHub Repository:  
 https://github.com/krishnakc64/UMBC-DATA606-Capstone.git
